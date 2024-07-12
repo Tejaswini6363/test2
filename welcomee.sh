@@ -1,1 +1,1 @@
-hingood afternoon
+echo"hingood afternoon"
